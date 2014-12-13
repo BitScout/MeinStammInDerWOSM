@@ -10,7 +10,7 @@
 	/**
 	 * Autor: Christian Kollross, DPSG Stamm Stadtschwarzach
 	 * Veröffentlich: 13.12.2014
-	 * Lizenz:
+	 * Lizenz: BSD (http://opensource.org/licenses/bsd-license.php)
 	 */
 	
 		/**
